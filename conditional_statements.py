@@ -1,6 +1,34 @@
 # Conditional Statements
 # NB: The 'expression' below is somthing which evaluates to True or False
 
+# General Notes:
+# In addition to the obvious options such as Boolean literals(True, False),
+# comparison operations ( < , <= , > , >= , == , != ) etc. the following statements
+# could also give a True / False result.
+#
+# True result with membership operators `in` / `not in`:
+#     'ing' in 'learning'
+#     'xyz' not in 'learning'
+#     42 in [12, 22, 32, 42, 52]
+#     99 not in (12, 22, 32, 42, 52)
+#
+# False result with membership operators `in` / `not in`:
+#     'xyz' in 'learning'
+#     42 not in [12, 22, 32, 42, 52]
+#     99 in (12, 22, 32, 42, 52)
+#
+# The following items evaluates to False.
+#     Integer value - 0
+#     Complex num - 0+0j
+#     Empty string, list, tuple, dict etc.
+#
+# The following evalutes to True.
+#     Zero and non zero float - 0.0, 4.8, -0.2
+#     Non zero integer value - 37, -3
+#     Non zero complex num - 3-5j
+#     Non empty string, list, tuple, dict etc.
+
+
 # IF statement
 # Syntax:
 # if <expression>:
