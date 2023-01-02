@@ -26,7 +26,6 @@ This repository is a scrible pad for test python codes and snippets.
 
 _(Open in new tab)_
 
-- <a href="https://realpython.com/python-introduction/" target="_blank">RealPython.com</a>
 - [RealPython.com](https://realpython.com/python-introduction/)
 - [W3 Schools](https://www.w3schools.com/python/default.asp)
 - [Corey Schafer YouTube channel](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
