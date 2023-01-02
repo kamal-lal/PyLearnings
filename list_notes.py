@@ -34,6 +34,7 @@ print(vehicles[3:])     # prints element 3 to end
 print(vehicles[:6])     # prints element begining to 5
 print(vehicles[1:8:3])  # prints every third elemet between 1 and 7
 print(vehicles[::2])    # prints every second element from whole list
+print(vehicles[::-1])   # prints every element element in reverse order
 
 
 # ---- Change values of elements in list ---- #
